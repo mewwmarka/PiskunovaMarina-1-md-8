@@ -1,6 +1,6 @@
 import random
 answer_count = 0
-i=0
+i = 0
 while i < 3:
     number1 = random.randint(0,10)
     number2 = random.randint(0,10)
