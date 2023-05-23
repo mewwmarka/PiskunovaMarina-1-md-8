@@ -21,6 +21,8 @@ class Restaurant:
 
 
 newRestaurant = Restaurant('Клод Моне', 'Французская')
+print(newRestaurant.restaurant_name)
+print(newRestaurant.cuisine_type)
 newRestaurant.describe_restaurant()
 newRestaurant.open_restaurant()
 
